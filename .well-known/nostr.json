@@ -1,6 +1,18 @@
-{ 
-  “names”: { 
-    “_”: “0dd9effbd3ba6f34eb33da5c9cfdc196c574ca25aade88f333e0b1e43a28b328” 
-    “daenomo”: “0dd9effbd3ba6f34eb33da5c9cfdc196c574ca25aade88f333e0b1e43a28b328” 
-  } 
+{
+  "names": {
+    "_": "0dd9effbd3ba6f34eb33da5c9cfdc196c574ca25aade88f333e0b1e43a28b328"
+  },
+  "relays": {
+    "0dd9effbd3ba6f34eb33da5c9cfdc196c574ca25aade88f333e0b1e43a28b328": [
+      "wss://relay.nostr.band/",
+      "wss://nos.lol/",
+      "wss://relay.damus.io/",
+      "wss://relay-jp.nostr.wirednet.jp/",
+      "wss://nostr-relay.nokotaro.com/",
+      "wss://yabu.me/",
+      "wss://r.kojira.io/",
+      "wss://nrelay-jp.c-stellar.net/",
+      "wss://nostr.holybea.com/"
+    ]
+  }
 }
