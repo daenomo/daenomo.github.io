@@ -1,5 +1,5 @@
 # xbox_capture_save
-* Xboxではキャプチャした動画や静止画をOneDriveに保存できる
+* Xboxではキャプチャした動画や静止画をOneDriveに保存でき
 * しかしOneDriveは5GBしかないのですぐに溜まって消すのが面倒
 * WindowsではOneDriveと同期する設定がありWindows側の通常のファイル操作でOneDriveからファイルをコピーしたり消すことができる
 * そこで同期したOneDriveからWindows側の通常のディレクトリに移動することでOneDriveのファイルを消す
