@@ -2,7 +2,7 @@
 
 * [daenomo（@daenomo） / X](https://x.com/daenomo)
 * [daenomo (@daenomo.bsky.social) — Bluesky](https://bsky.app/profile/daenomo.bsky.social)
-* [@daenomo | Misskey.io](https://misskey.io/@daenomo)
+* [@daenomo \| Misskey.io](https://misskey.io/@daenomo)
 * [daenomo / daenomo is on Nostr](https://njump.me/npub1phv7l77nhfhnf6enmfwfelwpjmzhfj394t0g3uenuzc7gw3gkv5qq4j44a)
 * [Concrnt - daenomo](https://concrnt.world/entity/con1tgmkxzcc6usmq9xu8zv0rud2675a87uludh9mx)
 * [@daenomoのTumblr](https://www.tumblr.com/daenomo)
