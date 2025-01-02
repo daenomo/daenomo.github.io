@@ -1,4 +1,4 @@
-<title>daenomo</title>
+# daenomo
 
 * [daenomo（@daenomo） / X](https://x.com/daenomo)
 * [daenomo (@daenomo.bsky.social) — Bluesky](https://bsky.app/profile/daenomo.bsky.social)
