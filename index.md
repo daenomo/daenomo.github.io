@@ -1,4 +1,8 @@
-# daenomo
+---
+layout: default
+title: アカウント一覧
+---
+書いておかないと忘れそうなのでアカウントの一覧をメモ
 
 * [daenomo（@daenomo） / X](https://x.com/daenomo)
 * [daenomo (@daenomo.bsky.social) — Bluesky](https://bsky.app/profile/daenomo.bsky.social)
