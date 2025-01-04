@@ -1,3 +1,5 @@
 include: 
 - .well-known
 theme: jekyll-theme-cayman
+title: 雑メモ置き場
+description: 書き散らかしておく場所です
