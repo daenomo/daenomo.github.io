@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2025 MyNintendoカレンダー印刷
+date: 2025-01-05
 ---
 # 2025 MyNintendoカレンダー印刷
 * 2025 MyNintendoカレンダーをコンビニで写真プリントするために分割する
