@@ -18,3 +18,8 @@ title: アカウント一覧
 * [daenomo (daenomo)](https://github.com/daenomo)
 * [daenomo – daenomo.wordpress.com](https://daenomo.wordpress.com/)
  
+# ページの一覧
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
