@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 2025 MyNintendoカレンダー印刷
 date: 2025-01-05
 ---
