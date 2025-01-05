@@ -2,5 +2,5 @@ baseurl: "/" # リポジトリ名に変更
 url: "https://daenomo.github.io"
 include: 
 - .well-known
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: 雑メモ置き場
