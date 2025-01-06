@@ -7,7 +7,7 @@ date: 2025-01-05
 * 2025 MyNintendoカレンダーをコンビニで写真プリントするために分割する
 ## 準備
 * 以下から日本語のカレンダーをダウンロードする
-  * https://my.nintendo.com/rewards/d997adfc1d94bd5a
+  * [2025年 カレンダー（印刷用） \| ギフト \| マイニンテンドー](https://my.nintendo.com/rewards/d997adfc1d94bd5a)
 * ImageMagick をインストールしてパスを通しておく
 * カレンダーを保存したディレクトリにて以下を実行する
 ```bash
