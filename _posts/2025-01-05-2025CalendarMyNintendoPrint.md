@@ -5,14 +5,23 @@ date: 2025-01-05
 ---
 # 2025 MyNintendoカレンダー印刷
 * 2025 MyNintendoカレンダーをコンビニで写真プリントするために分割する
+
 ## 準備
 * 以下から日本語のカレンダーをダウンロードする
   * [2025年 カレンダー（印刷用） \| ギフト \| マイニンテンドー](https://my.nintendo.com/rewards/d997adfc1d94bd5a)
 * ImageMagick をインストールしてパスを通しておく
 * カレンダーを保存したディレクトリにて以下を実行する
+
 ```bash
-i=0;for y in 85 1214 2337; do for x in 36 1252; do ((i++)); convert -crop 1192x974+${x}+${y} -colorspace srgb -density 300 -units PixelsPerInch -scene 1 _2025_Calendar_MyNintendo_Printable_JP_A4.pdf 2025CalendarMyNintendo%d${i}.png;done;done
+i=0
+for y in 85 1214 2337; do
+  for x in 36 1252; do
+    ((i++))
+    convert -crop 1192x974+${x}+${y} -colorspace srgb -density 300 -units PixelsPerInch -scene 1 _2025_Calendar_MyNintendo_Printable_JP_A4.pdf 2025CalendarMyNintendo%d${i}.png
+  done
+done
 ```
+
 ## 備考
 * ローソンで写真プリントする場合は内接フィットを使うと良い
 * ImageMagick v7以降の場合はconvertコマンドがmagickに変更されているため置き換えた方が良いっぽい
