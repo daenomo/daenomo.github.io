@@ -15,4 +15,4 @@ i=0;for y in 85 1214 2337; do for x in 36 1252; do ((i++)); convert -crop 1192x9
 ```
 ## 備考
 * ローソンで写真プリントする場合は内接フィットを使うと良い
-* ImageMagickの場合はconvertコマンドがmagickに変更されているため置き換えた方が良い
+* ImageMagick v7以降の場合はconvertコマンドがmagickに変更されているため置き換えた方が良いっぽい
