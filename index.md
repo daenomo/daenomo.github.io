@@ -7,3 +7,5 @@ title: 雑メモ
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
+
+[daenomo \(daenomo\)](https://github.com/daenomo)
