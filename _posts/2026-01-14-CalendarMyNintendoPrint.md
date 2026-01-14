@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MyNintendoカレンダー印刷
-date: 2026-01-15
+date: 2026-01-14
 ---
 # MyNintendoカレンダー印刷
 * MyNintendoカレンダーをコンビニで写真プリントするために分割する
