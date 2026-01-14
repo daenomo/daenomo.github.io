@@ -8,4 +8,6 @@ title: 雑メモ
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
-[daenomo \(daenomo\)](https://github.com/daenomo)
+
+- [daenomo \(daenomo\)](https://github.com/daenomo)
+- [daenomo/daenomo\.github\.io](https://github.com/daenomo/daenomo.github.io/tree/main)
