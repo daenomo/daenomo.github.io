@@ -22,7 +22,7 @@ for y in 85 1214 2337; do
 done
 ```
 2026年版
-- [2026年 カレンダー（印刷用） \| ギフト \| マイニンテンドー](https://my.nintendo.com/rewards/7e53d8444a7a61b0?_gl=1*zj5fqh*_ga*MTUyNjMyOTg4OC4xNzY1MzgxOTM3*_ga_5QTR7NL2D6*czE3Njg0MDIyODYkbzQkZzEkdDE3Njg0MDI0NjYkajQ1JGwwJGgw)
+- [2026年 カレンダー（印刷用） \| ギフト \| マイニンテンドー](https://my.nintendo.com/rewards/7e53d8444a7a61b0)
 ```
 for y in 120 1214 2292; do
   for x in 59 1251; do
