@@ -23,11 +23,13 @@ done
 ```
 2026年版
 - [2026年 カレンダー（印刷用） \| ギフト \| マイニンテンドー](https://my.nintendo.com/rewards/7e53d8444a7a61b0)
-```
-for y in 120 1214 2292; do
-  for x in 59 1251; do
+
+```bash
+i=0
+for y in 240 2428 4584; do
+  for x in 118 2502; do
     ((i++))
-    convert -crop 1170x967+${x}+${y} -colorspace srgb -density 300 -units PixelsPerInch -scene 1 My_Nintendo_YearIn_Review_Calendar_2026_A4_JP.pdf My_Nintendo_YearIn_Review_Calendar_2026_A4_JP%d${i}.png
+    convert -crop 2340x1934+${x}+${y} -colorspace srgb -density 600 -units PixelsPerInch -scene 1 My_Nintendo_YearIn_Review_Calendar_2026_A4_JP.pdf 600/My_Nintendo_YearIn_Review_Calendar_2026_A4_JP%d${i}.png
   done
 done
 ```
