@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 2025 MyNintendoカレンダー印刷
-date: 2025-01-05
+title: MyNintendoカレンダー印刷
+date: 2026-01-15
 ---
-# 2025 MyNintendoカレンダー印刷
-* 2025 MyNintendoカレンダーをコンビニで写真プリントするために分割する
+# MyNintendoカレンダー印刷
+* MyNintendoカレンダーをコンビニで写真プリントするために分割する
 
 ## 準備
 * 以下から日本語のカレンダーをダウンロードする
