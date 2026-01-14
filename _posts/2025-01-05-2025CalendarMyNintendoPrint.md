@@ -21,6 +21,15 @@ for y in 85 1214 2337; do
   done
 done
 ```
+2026年版
+```
+for y in 120 1214 2292; do
+  for x in 59 1251; do
+    ((i++))
+    convert -crop 1170x967+${x}+${y} -colorspace srgb -density 300 -units PixelsPerInch -scene 1 My_Nintendo_YearIn_Review_Calendar_2026_A4_JP.pdf My_Nintendo_YearIn_Review_Calendar_2026_A4_JP%d${i}.png
+  done
+done
+```
 
 ## 備考
 * ローソンで写真プリントする場合は内接フィットを使うと良い
