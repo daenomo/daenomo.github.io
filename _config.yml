@@ -4,3 +4,5 @@ include:
 - .well-known
 remote_theme: jekyll-theme-cayman
 title: 雑メモ置き場
+plugins:
+- jekyll-feed
